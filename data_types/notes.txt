@@ -1,0 +1,15 @@
+In programming or specially in JAVA their are multiple data types used to store the value like
+
+1. int - It is used to store the integer value before the points 
+2. string - It is used to store the string the whole sentenece or word
+3. char - It is used to store the single characters in the programming
+4. float - It is used to store the floating number in programming like after point data. Example float x = 3.0f, in floating the number at end we used f to know this represent floating data types
+5. double - It is used to store the double value means a whole number not like integear that only store before the points. In double we store the real number als and in double the vaue end with d like Example double x = 3.34d
+6. boolean -  It is used to store wither true or false where the true refers to truthy value and false refer to falsy value where true is represent as number shown as 1 while the falsy value represent as number it show 0.
+
+
+Important Point That Must Know In Data types
+
+1. If two number is divided as an int so the value with store as int 
+2. If any of one number is float or double than the value must be float or double what ever the data types we used 
+3. If both of number is float or double than the varibale types is double than answer is comes in float or may be double

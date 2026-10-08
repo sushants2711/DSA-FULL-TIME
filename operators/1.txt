@@ -1,0 +1,19 @@
+In java their are multiple types of operators is available in like
+
+1. Addition (+)
+2. Substraction (-)
+3. Multiplication (*)
+4. Divided (/)
+5. Modulus (%)
+
+In the coding the mathematical problems is solved by using the steps like we follow the BOADMASS rule by of divide multiply addition and than substraction 
+
+so one more important thing first solve the bracket and than apply the boadmass rule to get the right answer.
+
+Modules operator in the coding ( % ) it returns the remainder and the two important points that helps to solve the question that is 
+
+if a % b and a > b than we get the remainder just like normal 
+
+if a % b and a < b than a is less than b so we the remainder always get remainder a that is smaller one in the coding
+
+if a % - b like question is see in the coding than it means remove the minus (-) and than a % b.

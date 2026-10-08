@@ -1,0 +1,4 @@
+Ascii value of albhabets is very important to soleve ASCII DSA related problems 
+
+So, the ascii value of small a = 97
+ and the ascii value of capital A = 65

@@ -1,0 +1,36 @@
+Complete Till September
+
+Development
+
+learning node.js and some advance conecpts
+learning react.js 
+learning mongoDB 
+learning mySql
+
+DSA 
+
+1. Java and Basic of Java
+2. Array
+3. String
+4. Methods
+5. Recurssion
+6. HashMap, HashSet
+7. LinkedList
+8. Stack
+9. Queue
+10. Tree
+
+Deployment
+
+1. AWS Services
+2. Lambda
+3. Nginx
+4. Git
+5. GitHub
+6. CI/CD pipeline 
+7. Logs
+8. Monitoring
+
+SYSTEM DESIGN
+1. High Level System Design
+2. Low Level System Design
